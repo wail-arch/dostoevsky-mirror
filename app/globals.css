@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  background: #080706;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 50% 0%, rgba(253, 230, 138, 0.18), transparent 34rem),
+    radial-gradient(circle at 85% 25%, rgba(127, 29, 29, 0.24), transparent 30rem),
+    radial-gradient(circle at 15% 95%, rgba(49, 46, 129, 0.2), transparent 34rem),
+    #080706;
+  color: #fafaf9;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+::selection {
+  background: rgba(253, 230, 138, 0.34);
+  color: #0c0a09;
+}
+
+.font-literary {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.focus-ring {
+  @apply focus:outline-none focus:ring-2 focus:ring-amber-200 focus:ring-offset-2 focus:ring-offset-stone-950;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+

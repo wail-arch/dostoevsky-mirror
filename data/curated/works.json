@@ -1,0 +1,47 @@
+[
+  {
+    "id": "notes-from-underground",
+    "title": "Notes from Underground",
+    "originalTitle": "Zapiski iz podpolya",
+    "author": "Fyodor Dostoevsky",
+    "year": 1864,
+    "type": "notes",
+    "sourceIds": ["notes-from-underground"]
+  },
+  {
+    "id": "crime-and-punishment",
+    "title": "Crime and Punishment",
+    "originalTitle": "Prestupleniye i nakazaniye",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "type": "novel",
+    "sourceIds": ["crime-and-punishment"]
+  },
+  {
+    "id": "the-idiot",
+    "title": "The Idiot",
+    "originalTitle": "Idiot",
+    "author": "Fyodor Dostoevsky",
+    "year": 1869,
+    "type": "novel",
+    "sourceIds": ["the-idiot"]
+  },
+  {
+    "id": "demons",
+    "title": "Demons",
+    "originalTitle": "Besy",
+    "author": "Fyodor Dostoevsky",
+    "year": 1872,
+    "type": "novel",
+    "sourceIds": ["demons"]
+  },
+  {
+    "id": "the-brothers-karamazov",
+    "title": "The Brothers Karamazov",
+    "originalTitle": "Bratya Karamazovy",
+    "author": "Fyodor Dostoevsky",
+    "year": 1880,
+    "type": "novel",
+    "sourceIds": ["the-brothers-karamazov"]
+  }
+]

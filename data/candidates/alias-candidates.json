@@ -1,0 +1,1726 @@
+[
+  {
+    "normalizedName": "mitya",
+    "names": [
+      "Mitya",
+      "Pan Mitya"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "raskolnikov",
+    "names": [
+      "Raskolnikov",
+      "Rodion Raskolnikov",
+      "Rodion Romanovitch Raskolnikov",
+      "Alexandrovna Raskolnikov"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "petrovna",
+    "names": [
+      "Varvara Petrovna",
+      "Marfa Petrovna",
+      "Arina Petrovna",
+      "Avdotya Petrovna",
+      "Nastasya Petrovna",
+      "Only Varvara Petrovna",
+      "Petersburg Varvara Petrovna",
+      "Poor Marfa Petrovna",
+      "What Marfa Petrovna",
+      "Why Varvara Petrovna"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "ivanovna",
+    "names": [
+      "Katerina Ivanovna",
+      "Aglaya Ivanovna",
+      "Amalia Ivanovna",
+      "Praskovya Ivanovna",
+      "Alyona Ivanovna",
+      "Luise Ivanovna",
+      "Sofya Ivanovna",
+      "Lizaveta Ivanovna",
+      "Agafya Ivanovna",
+      "Adelaida Ivanovna",
+      "Alexandra Ivanovna",
+      "Maria Ivanovna",
+      "Possibly Katerina Ivanovna",
+      "Yet Katerina Ivanovna"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "vsyevolodovitch",
+    "names": [
+      "Nikolay Vsyevolodovitch",
+      "Could Nikolay Vsyevolodovitch",
+      "Did Nikolay Vsyevolodovitch"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "aglaya",
+    "names": [
+      "Aglaya",
+      "Alas Aglaya",
+      "Did Aglaya",
+      "Perhaps Aglaya",
+      "Surely Aglaya",
+      "Whatever Aglaya",
+      "Without Aglaya",
+      "Yet Aglaya"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "shatov",
+    "names": [
+      "Shatov",
+      "Ivan Shatov",
+      "Marya Shatov",
+      "Madame Shatov",
+      "Knowing Shatov",
+      "Madame Marya Shatov",
+      "Spare Shatov",
+      "Why Shatov"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "trofimovitch",
+    "names": [
+      "Stepan Trofimovitch",
+      "All Stepan Trofimovitch",
+      "Our Stepan Trofimovitch",
+      "Poor Stepan Trofimovitch",
+      "Stephan Trofimovitch"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "philipovna",
+    "names": [
+      "Nastasia Philipovna",
+      "Simply Nastasia Philipovna",
+      "Was Nastasia Philipovna",
+      "What Nastasia Philipovna"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "sonia",
+    "names": [
+      "Sonia",
+      "Before Sonia",
+      "Gentle Sonia",
+      "Moreover Sonia",
+      "Sister Sonia"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "rogojin",
+    "names": [
+      "Rogojin",
+      "Parfen Rogojin",
+      "Can Rogojin",
+      "Cannot Rogojin",
+      "Semen Rogojin",
+      "Would Rogojin"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "smerdyakov",
+    "names": [
+      "Smerdyakov",
+      "Because Smerdyakov",
+      "Had Smerdyakov",
+      "My Smerdyakov",
+      "Why Smerdyakov"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "stavrogin",
+    "names": [
+      "Stavrogin",
+      "Nikolay Stavrogin",
+      "Madame Stavrogin",
+      "General Stavrogin",
+      "Varvara Petrovna Stavrogin",
+      "Has Stavrogin",
+      "Vsyevolodovitch Stavrogin",
+      "Why Stavrogin",
+      "Will Stavrogin"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "fyodorovitch",
+    "names": [
+      "Dmitri Fyodorovitch",
+      "Alexey Fyodorovitch",
+      "Ivan Fyodorovitch",
+      "Fyodor Fyodorovitch",
+      "Pavel Fyodorovitch",
+      "Why Ivan Fyodorovitch"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "kirillov",
+    "names": [
+      "Kirillov",
+      "Alexey Kirillov"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "pavlovitch",
+    "names": [
+      "Fyodor Pavlovitch",
+      "Evgenie Pavlovitch",
+      "Pyotr Pavlovitch",
+      "Afanasy Pavlovitch",
+      "All Fyodor Pavlovitch",
+      "Except Fyodor Pavlovitch"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "porfiry",
+    "names": [
+      "Porfiry",
+      "Better Porfiry",
+      "Did Porfiry",
+      "What Porfiry"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "liza",
+    "names": [
+      "Liza",
+      "What Liza"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "rakitin",
+    "names": [
+      "Rakitin",
+      "Can Rakitin",
+      "Perhaps Rakitin"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "romanovna",
+    "names": [
+      "Avdotya Romanovna",
+      "Had Avdotya Romanovna"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "mihailovna",
+    "names": [
+      "Yulia Mihailovna",
+      "Whether Yulia Mihailovna"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "lise",
+    "names": [
+      "Lise",
+      "Yet Lise"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "prokofievna",
+    "names": [
+      "Lizabetha Prokofievna",
+      "Elizabetha Prokofievna",
+      "Doubtless Lizabetha Prokofievna",
+      "Perhaps Lizabetha Prokofievna",
+      "Poor Lizabetha Prokofievna"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "petrovitch",
+    "names": [
+      "Pyotr Petrovitch",
+      "Porfiry Petrovitch",
+      "Ilya Petrovitch",
+      "Ivan Petrovitch",
+      "Yefim Petrovitch",
+      "Fyodor Petrovitch",
+      "Rodya Pyotr Petrovitch",
+      "What Pyotr Petrovitch"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-idiot.txt",
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "muishkin",
+    "names": [
+      "Muishkin",
+      "Prince Muishkin",
+      "Princess Muishkin",
+      "Without Muishkin"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "alexandrovna",
+    "names": [
+      "Pulcheria Alexandrovna",
+      "Agrafena Alexandrovna",
+      "Nina Alexandrovna",
+      "Marie Alexandrovna"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "hohlakov",
+    "names": [
+      "Madame Hohlakov",
+      "Lise Hohlakov",
+      "Yet Madame Hohlakov"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "zossima",
+    "names": [
+      "Father Zossima",
+      "Elder Zossima"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "ilyitch",
+    "names": [
+      "Pyotr Ilyitch",
+      "Ilya Ilyitch",
+      "Nikolay Ilyitch",
+      "Protr Ilyitch"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "antonovitch",
+    "names": [
+      "Andrey Antonovitch",
+      "Except Andrey Antonovitch"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "ivolgin",
+    "names": [
+      "General Ivolgin",
+      "Gavrila Ardalionovitch Ivolgin",
+      "Colia Ivolgin",
+      "Ardalion Alexandrovitch Ivolgin"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "epanchin",
+    "names": [
+      "General Epanchin",
+      "Madame Epanchin",
+      "Aglaya Epanchin",
+      "Aglaya Ivanovna Epanchin",
+      "Fedor Ivanovitch Epanchin",
+      "Ivan Fedorovitch Epanchin",
+      "Poor General Epanchin"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "ardalionovitch",
+    "names": [
+      "Gavrila Ardalionovitch",
+      "Nicolai Ardalionovitch",
+      "Ask Gavrila Ardalionovitch",
+      "Nicholai Ardalionovitch"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "marmeladov",
+    "names": [
+      "Marmeladov",
+      "Evidently Marmeladov",
+      "Sofya Semyonovna Marmeladov",
+      "Sonia Marmeladov"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "matveyevna",
+    "names": [
+      "Sofya Matveyevna",
+      "Fortunately Sofya Matveyevna"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "pavlovna",
+    "names": [
+      "Darya Pavlovna",
+      "Praskovya Pavlovna",
+      "Natalya Pavlovna"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "prohorovna",
+    "names": [
+      "Arina Prohorovna",
+      "Anna Prohorovna"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "lembke",
+    "names": [
+      "Von Lembke",
+      "Upon Von Lembke"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "yakovlevitch",
+    "names": [
+      "Semyon Yakovlevitch",
+      "Father Semyon Yakovlevitch"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "nicolaievitch",
+    "names": [
+      "Lef Nicolaievitch",
+      "Prince Lef Nicolaievitch"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "god",
+    "names": [
+      "Good God",
+      "My God",
+      "Thank God",
+      "Lord God",
+      "May God",
+      "Oh God",
+      "Maybe God",
+      "Olympic God",
+      "Only God",
+      "Perhaps God",
+      "What God",
+      "Where God",
+      "Without God"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "demons.txt",
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt",
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "ignatyevna",
+    "names": [
+      "Marfa Ignatyevna",
+      "Marya Ignatyevna"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "karamazov",
+    "names": [
+      "Dmitri Karamazov",
+      "Ivan Karamazov",
+      "Alexey Fyodorovitch Karamazov",
+      "Fyodor Pavlovitch Karamazov",
+      "Alexey Karamazov",
+      "Mitya Karamazov",
+      "Alyosha Karamazov",
+      "Dmitri Fyodorovitch Karamazov",
+      "Pavlovitch Karamazov",
+      "Brothers Karamazov",
+      "Fyodorovitch Karamazov",
+      "Ivan Fyodorovitch Karamazov",
+      "Lieutenant Dmitri Karamazov",
+      "Lieutenant Karamazov",
+      "Mityenka Karamazov"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "alexandrovitch",
+    "names": [
+      "Pyotr Alexandrovitch",
+      "Ardalion Alexandrovitch",
+      "Alexandr Alexandrovitch",
+      "Ivan Alexandrovitch",
+      "Nina Alexandrovitch"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "superior",
+    "names": [
+      "Father Superior",
+      "Mother Superior",
+      "Blessed Mother Superior"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "foundation",
+    "names": [
+      "Archive Foundation",
+      "Literary Archive Foundation"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "demons.txt",
+      "notes-from-underground.txt",
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "fedorovitch",
+    "names": [
+      "Ivan Fedorovitch",
+      "General Ivan Fedorovitch",
+      "Excepting Ivan Fedorovitch"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "virginsky",
+    "names": [
+      "Madame Virginsky",
+      "Miss Virginsky",
+      "Arina Virginsky",
+      "Squeezing Virginsky"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "lord",
+    "names": [
+      "Good Lord",
+      "Oh Lord",
+      "My Lord",
+      "Our Lord"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "demons.txt",
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "lebyadkin",
+    "names": [
+      "Captain Lebyadkin",
+      "Miss Lebyadkin",
+      "Captain Ignat Lebyadkin",
+      "Ignat Lebyadkin",
+      "Mademoiselle Lebyadkin",
+      "Marya Timofyevna Lebyadkin",
+      "My Lebyadkin",
+      "Timofyevna Lebyadkin",
+      "What Lebyadkin"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "vassilyevitch",
+    "names": [
+      "Grigory Vassilyevitch",
+      "Sergay Vassilyevitch"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "bielokonski",
+    "names": [
+      "Princess Bielokonski",
+      "Besides Princess Bielokonski",
+      "Old Bielokonski"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "iosif",
+    "names": [
+      "Father Iosif",
+      "Gentle Father Iosif"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "ivanovitch",
+    "names": [
+      "Afanasy Ivanovitch",
+      "Arkady Ivanovitch",
+      "Christopher Ivanovitch",
+      "Nazar Ivanovitch",
+      "General Ivan Ivanovitch",
+      "Aglaya Ivanovitch",
+      "Anisim Ivanovitch",
+      "Ivan Ivanovitch",
+      "Prince Nicolai Ivanovitch"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-idiot.txt",
+      "demons.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "semyonovitch",
+    "names": [
+      "Andrey Semyonovitch",
+      "Semyon Semyonovitch",
+      "Alexey Semyonovitch",
+      "Mihail Semyonovitch"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "alexeyevna",
+    "names": [
+      "Daria Alexeyevna",
+      "Anfisa Alexeyevna",
+      "Dana Alexeyevna"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "ardalionovna",
+    "names": [
+      "Varvara Ardalionovna",
+      "Varia Ardalionovna"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "lebedeff",
+    "names": [
+      "Vera Lebedeff",
+      "Kostia Lebedeff",
+      "Besides Lebedeff",
+      "Only Vera Lebedeff"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "herzenstube",
+    "names": [
+      "Doctor Herzenstube",
+      "Your Herzenstube"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "himself",
+    "names": [
+      "God Himself",
+      "Almighty Himself",
+      "Christ Himself",
+      "He Himself"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "demons.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "verhovensky",
+    "names": [
+      "Pyotr Verhovensky",
+      "Stepan Verhovensky",
+      "Pyotr Stepanovitch Verhovensky",
+      "Stepan Trofimovitch Verhovensky",
+      "Seizing Verhovensky",
+      "Will Verhovensky"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "ossipovitch",
+    "names": [
+      "Ivan Ossipovitch",
+      "Poor Ivan Ossipovitch"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "lady",
+    "names": [
+      "Our Lady",
+      "Gracious Lady"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "demons.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "street",
+    "names": [
+      "Bogoyavlensky Street",
+      "Lake Street",
+      "High Street",
+      "Mihailovsky Street",
+      "Bykovy Street",
+      "Sadovy Street",
+      "Third Street",
+      "Dmitrovsky Street",
+      "Mattrossky Street",
+      "Myeshtchansky Street",
+      "Voznesensky Street",
+      "Wladimir Street"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "the-brothers-karamazov.txt",
+      "crime-and-punishment.txt",
+      "the-idiot.txt",
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "krassotkin",
+    "names": [
+      "Kolya Krassotkin",
+      "Madame Krassotkin",
+      "Nikolay Ivanovitch Krassotkin",
+      "Tell Krassotkin"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "excellency",
+    "names": [
+      "Your Excellency",
+      "His Excellency"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "the-brothers-karamazov.txt",
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "antonitch",
+    "names": [
+      "Anton Antonitch",
+      "Thursday Anton Antonitch"
+    ],
+    "sourceFiles": [
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "eropegoff",
+    "names": [
+      "Captain Eropegoff",
+      "Eroshka Eropegoff",
+      "Kapiton Eropegoff",
+      "No Eropegoff"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "snegiryov",
+    "names": [
+      "Captain Snegiryov",
+      "Madame Snegiryov",
+      "Nikolay Ilyitch Snegiryov"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "lippevechsel",
+    "names": [
+      "Madame Lippevechsel",
+      "Amalia Lippevechsel",
+      "Amalia Fyodorovna Lippevechsel"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "michael",
+    "names": [
+      "Professor Michael",
+      "Archangel Michael"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "demons.txt",
+      "notes-from-underground.txt",
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "mi",
+    "names": [
+      "Pyotr Alexandrovitch Mi",
+      "Ivanovna Mi",
+      "Yet Mi"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "service",
+    "names": [
+      "Revenue Service",
+      "Civil Service"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "demons.txt",
+      "notes-from-underground.txt",
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "madonna",
+    "names": [
+      "Sistine Madonna",
+      "Dresden Madonna"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "heavens",
+    "names": [
+      "Good Heavens",
+      "Merciful Heavens"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "notes-from-underground.txt",
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "neva",
+    "names": [
+      "Little Neva",
+      "Lesser Neva"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "semeonovitch",
+    "names": [
+      "Parfen Semeonovitch",
+      "Gregory Semeonovitch"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "luzhin",
+    "names": [
+      "Pyotr Petrovitch Luzhin",
+      "Petrovitch Luzhin"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "ostrov",
+    "names": [
+      "Vassilyevsky Ostrov",
+      "Petrovsky Ostrov"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "lebeziatnikov",
+    "names": [
+      "Andrey Semyonovitch Lebeziatnikov",
+      "Semyonovitch Lebeziatnikov"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "svidriga",
+    "names": [
+      "Arkady Ivanovitch Svidriga",
+      "Ivanovitch Svidriga",
+      "Marfa Petrovna Svidriga",
+      "You Svidriga"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "russia",
+    "names": [
+      "Holy Russia",
+      "Mother Russia",
+      "Young Russia"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "the-idiot.txt",
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "terentieff",
+    "names": [
+      "Madame Terentieff",
+      "Hippolyte Terentieff"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "testament",
+    "names": [
+      "New Testament",
+      "Old Testament"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "church",
+    "names": [
+      "Orthodox Church",
+      "Roman Church",
+      "Christian Church",
+      "Holy Church",
+      "What Church"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "garden",
+    "names": [
+      "Summer Garden",
+      "Yusupov Garden"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt",
+      "crime-and-punishment.txt",
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "ivanitch",
+    "names": [
+      "Alexey Ivanitch",
+      "Afanasy Ivanitch"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "gaganov",
+    "names": [
+      "Artemy Pavlovitch Gaganov",
+      "Pyotr Pavlovitch Gaganov",
+      "Pavel Pavlovitch Gaganov"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "sergyevna",
+    "names": [
+      "Avdotya Sergyevna",
+      "Marta Sergyevna"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "truth",
+    "names": [
+      "Becomes Truth",
+      "Divine Truth"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "man",
+    "names": [
+      "Clever Man",
+      "Inquisitive Man"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "thou",
+    "names": [
+      "Didst Thou",
+      "Dost Thou",
+      "Hadst Thou",
+      "Canst Thou",
+      "Hast Thou",
+      "Knowest Thou",
+      "Whatsoever Thou"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "erkel",
+    "names": [
+      "Ensign Erkel",
+      "Lieutenant Erkel"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "he",
+    "names": [
+      "God He",
+      "Does He",
+      "Him He",
+      "Surely He"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "idea",
+    "names": [
+      "Great Idea",
+      "Grand Idea",
+      "Infinite Idea"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "father",
+    "names": [
+      "Holy Father",
+      "Reverend Father",
+      "Thy Father"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "bernard",
+    "names": [
+      "Karl Bernard",
+      "Claude Bernard"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "lvovitch",
+    "names": [
+      "Nicolai Lvovitch",
+      "Prince Nicolai Lvovitch"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "who",
+    "names": [
+      "Peasant Women Who",
+      "God Who"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "bachmatoff",
+    "names": [
+      "Peter Matveyevitch Bachmatoff",
+      "Poor Bachmatoff"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "war",
+    "names": [
+      "Prussian War",
+      "American War"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "kalganov",
+    "names": [
+      "Pyotr Fomitch Kalganov",
+      "Damn Kalganov"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "lizaveta",
+    "names": [
+      "Stinking Lizaveta",
+      "Poor Lizaveta"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "ptitsin",
+    "names": [
+      "Varvara Ardalionovna Ptitsin",
+      "Ivan Petrovitch Ptitsin",
+      "Ivan Ptitsin",
+      "Petrovitch Ptitsin"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "vahrushin",
+    "names": [
+      "Afanasy Ivanovitch Vahrushin",
+      "Vassily Ivanovitch Vahrushin"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "alexey",
+    "names": [
+      "After Alexey",
+      "Ask Alexey"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "nikolay",
+    "names": [
+      "After Nikolay",
+      "Maybe Nikolay"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "tchizhov",
+    "names": [
+      "Alexey Ivanitch Tchizhov",
+      "Not Tchizhov",
+      "What Tchizhov"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "evgenie",
+    "names": [
+      "Also Evgenie",
+      "Ask Evgenie",
+      "Concerning Evgenie"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "order",
+    "names": [
+      "Anna Order",
+      "Stanislav Order"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "syetotchkin",
+    "names": [
+      "Anton Antonitch Syetotchkin",
+      "Antonitch Syetotchkin"
+    ],
+    "sourceFiles": [
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "gania",
+    "names": [
+      "Ask Gania",
+      "Petersburg Gania"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "maria",
+    "names": [
+      "Ave Maria",
+      "Sancta Maria"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "mr",
+    "names": [
+      "Before Mr",
+      "Since Mr"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "prince",
+    "names": [
+      "Besides Prince",
+      "Perhaps Prince"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "siberia",
+    "names": [
+      "Better Siberia",
+      "Why Siberia"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "dmitri",
+    "names": [
+      "Call Dmitri",
+      "Yet Dmitri"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "shigalovism",
+    "names": [
+      "Damn Shigalovism",
+      "Not Shigalovism"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "french",
+    "names": [
+      "Dasha French",
+      "Teaching French"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "house",
+    "names": [
+      "Dead House",
+      "Prussian House"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  },
+  {
+    "normalizedName": "liputin",
+    "names": [
+      "Does Liputin",
+      "Imagine Liputin",
+      "Let Liputin",
+      "Madame Liputin"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "napoleon",
+    "names": [
+      "Emperor Napoleon",
+      "Like Napoleon",
+      "Take Napoleon"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt",
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "isaac",
+    "names": [
+      "Father Isaac",
+      "Holy Father Isaac"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "academy",
+    "names": [
+      "French Academy",
+      "Medical Academy"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "drozdov",
+    "names": [
+      "General Drozdov",
+      "Madame Drozdov",
+      "Mavriky Nikolaevitch Drozdov",
+      "Praskovya Ivanovna Drozdov"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "friday",
+    "names": [
+      "Good Friday",
+      "Last Friday"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "heaven",
+    "names": [
+      "Gracious Heaven",
+      "Great Heaven"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "theatre",
+    "names": [
+      "Grand Theatre",
+      "Great Theatre"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "blum",
+    "names": [
+      "Had Blum",
+      "Von Blum"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "fedka",
+    "names": [
+      "Has Fedka",
+      "Like Fedka",
+      "Why Fedka"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "mihailovitch",
+    "names": [
+      "Ivan Mihailovitch",
+      "Mihail Mihailovitch",
+      "Pyotr Mihailovitch"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-brothers-karamazov.txt",
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "island",
+    "names": [
+      "Krestovsky Island",
+      "Petrovsky Island",
+      "Stone Island"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt",
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "zverkov",
+    "names": [
+      "Lieutenant Zverkov",
+      "Monsieur Zverkov"
+    ],
+    "sourceFiles": [
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "tushin",
+    "names": [
+      "Lizaveta Tushin",
+      "Madame Tushin",
+      "Miss Tushin"
+    ],
+    "sourceFiles": [
+      "demons.txt"
+    ]
+  },
+  {
+    "normalizedName": "nikitishna",
+    "names": [
+      "Martha Nikitishna",
+      "Natalia Nikitishna"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "pyotr",
+    "names": [
+      "Moreover Pyotr",
+      "Uncle Pyotr"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "america",
+    "names": [
+      "North America",
+      "Take North America"
+    ],
+    "sourceFiles": [
+      "demons.txt",
+      "notes-from-underground.txt"
+    ]
+  },
+  {
+    "normalizedName": "mrs",
+    "names": [
+      "Only Mrs",
+      "Twice Mrs"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "podvysotsky",
+    "names": [
+      "Pan Podvysotsky",
+      "What Podvysotsky"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "colia",
+    "names": [
+      "Poor Colia",
+      "Presently Colia",
+      "Send Colia"
+    ],
+    "sourceFiles": [
+      "the-idiot.txt"
+    ]
+  },
+  {
+    "normalizedName": "fenya",
+    "names": [
+      "Poor Fenya",
+      "Questioning Fenya"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "thy",
+    "names": [
+      "Thou Thy",
+      "Where Thy"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "nikititch",
+    "names": [
+      "Trifon Nikititch",
+      "What Trifon Nikititch"
+    ],
+    "sourceFiles": [
+      "the-brothers-karamazov.txt"
+    ]
+  },
+  {
+    "normalizedName": "prospect",
+    "names": [
+      "Vassilyevsky Prospect",
+      "Voznesensky Prospect"
+    ],
+    "sourceFiles": [
+      "crime-and-punishment.txt"
+    ]
+  }
+]

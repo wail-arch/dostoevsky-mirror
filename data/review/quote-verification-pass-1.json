@@ -1,0 +1,328 @@
+{
+  "passId": "manual-quote-verification-pass-1",
+  "status": "complete",
+  "scope": "At most one verified real quote per V1 result-worthy character.",
+  "sourceRule": "Every promoted quote was checked against data/normalized/{sourceFile}; doubtful entries were not promoted.",
+  "decisions": [
+    {
+      "characterId": "underground-man",
+      "selected": {
+        "candidateId": "notes-from-underground-quote-candidate-20",
+        "promotedQuoteId": "quote-underground-man-sick-man",
+        "status": "promoted",
+        "location": "paragraph 20",
+        "sourceFile": "notes-from-underground.txt",
+        "verificationNote": "Exact narrator text appears in paragraph 20. Shortlist dialogue entries were rejected because they were mostly spoken by other characters."
+      },
+      "reviewedShortlist": {
+        "promoted": [],
+        "maybeLater": [],
+        "needsDeeperReview": [],
+        "rejected": [
+          "notes-from-underground-quote-candidate-186",
+          "notes-from-underground-quote-candidate-178",
+          "notes-from-underground-quote-candidate-500",
+          "notes-from-underground-quote-candidate-259",
+          "notes-from-underground-quote-candidate-384",
+          "notes-from-underground-quote-candidate-268",
+          "notes-from-underground-quote-candidate-471",
+          "notes-from-underground-quote-candidate-354"
+        ]
+      }
+    },
+    {
+      "characterId": "raskolnikov",
+      "selected": {
+        "candidateId": "crime-and-punishment-quote-candidate-45",
+        "promotedQuoteId": "quote-raskolnikov-sun-then",
+        "status": "promoted",
+        "location": "paragraph 45",
+        "sourceFile": "crime-and-punishment.txt",
+        "verificationNote": "Exact thought text appears in paragraph 45. It was preferred over the shortlist because it better captures premeditation."
+      },
+      "reviewedShortlist": {
+        "promoted": [],
+        "maybeLater": [
+          "crime-and-punishment-quote-candidate-1992",
+          "crime-and-punishment-quote-candidate-1369",
+          "crime-and-punishment-quote-candidate-555"
+        ],
+        "needsDeeperReview": [],
+        "rejected": [
+          "crime-and-punishment-quote-candidate-1140",
+          "crime-and-punishment-quote-candidate-2378",
+          "crime-and-punishment-quote-candidate-2090",
+          "crime-and-punishment-quote-candidate-2251",
+          "crime-and-punishment-quote-candidate-2381"
+        ]
+      }
+    },
+    {
+      "characterId": "sonya-marmeladova",
+      "selected": {
+        "candidateId": "crime-and-punishment-quote-candidate-3851",
+        "promotedQuoteId": "quote-sonya-cross-yourself",
+        "status": "promoted",
+        "location": "paragraph 3851",
+        "sourceFile": "crime-and-punishment.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 3851 and is directly attributed to Sonia."
+      },
+      "reviewedShortlist": {
+        "promoted": ["crime-and-punishment-quote-candidate-3851"],
+        "maybeLater": [
+          "crime-and-punishment-quote-candidate-2452",
+          "crime-and-punishment-quote-candidate-2446",
+          "crime-and-punishment-quote-candidate-2577"
+        ],
+        "needsDeeperReview": [],
+        "rejected": [
+          "crime-and-punishment-quote-candidate-2418",
+          "crime-and-punishment-quote-candidate-109",
+          "crime-and-punishment-quote-candidate-3183",
+          "crime-and-punishment-quote-candidate-3100"
+        ]
+      }
+    },
+    {
+      "characterId": "svidrigailov",
+      "selected": {
+        "candidateId": "crime-and-punishment-quote-candidate-2144",
+        "promotedQuoteId": "quote-svidrigailov-rarely-lie",
+        "status": "promoted",
+        "location": "paragraph 2144",
+        "sourceFile": "crime-and-punishment.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 2144 and is directly attributed to Svidrigaïlov."
+      },
+      "reviewedShortlist": {
+        "promoted": ["crime-and-punishment-quote-candidate-2144"],
+        "maybeLater": [
+          "crime-and-punishment-quote-candidate-3532",
+          "crime-and-punishment-quote-candidate-3663",
+          "crime-and-punishment-quote-candidate-2139",
+          "crime-and-punishment-quote-candidate-3538"
+        ],
+        "needsDeeperReview": [],
+        "rejected": [
+          "crime-and-punishment-quote-candidate-2076",
+          "crime-and-punishment-quote-candidate-194",
+          "crime-and-punishment-quote-candidate-2247"
+        ]
+      }
+    },
+    {
+      "characterId": "prince-myshkin",
+      "selected": {
+        "candidateId": "the-idiot-quote-candidate-4968",
+        "promotedQuoteId": "quote-prince-myshkin-guilty",
+        "status": "promoted",
+        "location": "paragraph 4968",
+        "sourceFile": "the-idiot.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 4968 and is directly attributed to Muishkin."
+      },
+      "reviewedShortlist": {
+        "promoted": ["the-idiot-quote-candidate-4968"],
+        "maybeLater": [
+          "the-idiot-quote-candidate-1735",
+          "the-idiot-quote-candidate-1658"
+        ],
+        "needsDeeperReview": [],
+        "rejected": [
+          "the-idiot-quote-candidate-48",
+          "the-idiot-quote-candidate-2330",
+          "the-idiot-quote-candidate-1448",
+          "the-idiot-quote-candidate-2931",
+          "the-idiot-quote-candidate-2221"
+        ]
+      }
+    },
+    {
+      "characterId": "nastasya-filippovna",
+      "selected": {
+        "candidateId": "the-idiot-quote-candidate-1282",
+        "promotedQuoteId": "quote-nastasya-wolves",
+        "status": "promoted",
+        "location": "paragraph 1282",
+        "sourceFile": "the-idiot.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 1282 and is directly attributed to Nastasia."
+      },
+      "reviewedShortlist": {
+        "promoted": ["the-idiot-quote-candidate-1282"],
+        "maybeLater": [
+          "the-idiot-quote-candidate-1301",
+          "the-idiot-quote-candidate-960",
+          "the-idiot-quote-candidate-1234"
+        ],
+        "needsDeeperReview": [
+          "the-idiot-quote-candidate-4823"
+        ],
+        "rejected": [
+          "the-idiot-quote-candidate-353",
+          "the-idiot-quote-candidate-1128",
+          "the-idiot-quote-candidate-1039"
+        ]
+      }
+    },
+    {
+      "characterId": "rogozhin",
+      "selected": {
+        "candidateId": "the-idiot-quote-candidate-1832",
+        "promotedQuoteId": "quote-rogozhin-true",
+        "status": "promoted",
+        "location": "paragraph 1832",
+        "sourceFile": "the-idiot.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 1832 and is directly attributed to Rogojin."
+      },
+      "reviewedShortlist": {
+        "promoted": ["the-idiot-quote-candidate-1832"],
+        "maybeLater": [
+          "the-idiot-quote-candidate-3053",
+          "the-idiot-quote-candidate-3917",
+          "the-idiot-quote-candidate-3055",
+          "the-idiot-quote-candidate-1931"
+        ],
+        "needsDeeperReview": [
+          "the-idiot-quote-candidate-1838",
+          "the-idiot-quote-candidate-1867"
+        ],
+        "rejected": [
+          "the-idiot-quote-candidate-1370"
+        ]
+      }
+    },
+    {
+      "characterId": "ivan-karamazov",
+      "selected": {
+        "candidateId": "manual-the-brothers-karamazov-paragraph-1720-ivan-karamazov",
+        "promotedQuoteId": "quote-ivan-return-ticket",
+        "status": "promoted",
+        "location": "paragraph 1720",
+        "sourceFile": "the-brothers-karamazov.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 1720. It was preferred over the shortlist because it is central to Ivan's metaphysical revolt."
+      },
+      "reviewedShortlist": {
+        "promoted": [],
+        "maybeLater": [
+          "the-brothers-karamazov-quote-candidate-5246",
+          "the-brothers-karamazov-quote-candidate-5114",
+          "the-brothers-karamazov-quote-candidate-4829",
+          "the-brothers-karamazov-quote-candidate-5050"
+        ],
+        "needsDeeperReview": [
+          "the-brothers-karamazov-quote-candidate-4508",
+          "the-brothers-karamazov-quote-candidate-745"
+        ],
+        "rejected": [
+          "the-brothers-karamazov-quote-candidate-1155",
+          "the-brothers-karamazov-quote-candidate-507"
+        ]
+      }
+    },
+    {
+      "characterId": "dmitri-karamazov",
+      "selected": {
+        "candidateId": "the-brothers-karamazov-quote-candidate-3908",
+        "promotedQuoteId": "quote-dmitri-why-crying",
+        "status": "promoted",
+        "location": "paragraph 3908",
+        "sourceFile": "the-brothers-karamazov.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 3908 and is directly attributed to Mitya."
+      },
+      "reviewedShortlist": {
+        "promoted": ["the-brothers-karamazov-quote-candidate-3908"],
+        "maybeLater": [
+          "the-brothers-karamazov-quote-candidate-2528",
+          "the-brothers-karamazov-quote-candidate-3516",
+          "the-brothers-karamazov-quote-candidate-3314"
+        ],
+        "needsDeeperReview": [
+          "the-brothers-karamazov-quote-candidate-2605"
+        ],
+        "rejected": [
+          "the-brothers-karamazov-quote-candidate-2968",
+          "the-brothers-karamazov-quote-candidate-2844",
+          "the-brothers-karamazov-quote-candidate-1028"
+        ]
+      }
+    },
+    {
+      "characterId": "alyosha-karamazov",
+      "selected": {
+        "candidateId": "the-brothers-karamazov-quote-candidate-5950",
+        "promotedQuoteId": "quote-alyosha-memory-live",
+        "status": "promoted",
+        "location": "paragraph 5950",
+        "sourceFile": "the-brothers-karamazov.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 5950 and is directly attributed to Alyosha."
+      },
+      "reviewedShortlist": {
+        "promoted": ["the-brothers-karamazov-quote-candidate-5950"],
+        "maybeLater": [
+          "the-brothers-karamazov-quote-candidate-5890",
+          "the-brothers-karamazov-quote-candidate-1374",
+          "the-brothers-karamazov-quote-candidate-5282"
+        ],
+        "needsDeeperReview": [
+          "the-brothers-karamazov-quote-candidate-1486"
+        ],
+        "rejected": [
+          "the-brothers-karamazov-quote-candidate-395",
+          "the-brothers-karamazov-quote-candidate-900",
+          "the-brothers-karamazov-quote-candidate-1747"
+        ]
+      }
+    },
+    {
+      "characterId": "stavrogin",
+      "selected": {
+        "candidateId": "demons-quote-candidate-3211",
+        "promotedQuoteId": "quote-stavrogin-no-necessity",
+        "status": "promoted",
+        "location": "paragraph 3211",
+        "sourceFile": "demons.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 3211 and is directly attributed to Stavrogin."
+      },
+      "reviewedShortlist": {
+        "promoted": ["demons-quote-candidate-3211"],
+        "maybeLater": [
+          "demons-quote-candidate-2201",
+          "demons-quote-candidate-2105",
+          "demons-quote-candidate-3278",
+          "demons-quote-candidate-3023",
+          "demons-quote-candidate-3296"
+        ],
+        "needsDeeperReview": [
+          "demons-quote-candidate-1715"
+        ],
+        "rejected": [
+          "demons-quote-candidate-3305"
+        ]
+      }
+    },
+    {
+      "characterId": "kirillov",
+      "selected": {
+        "candidateId": "demons-quote-candidate-4749",
+        "promotedQuoteId": "quote-kirillov-surprised-living",
+        "status": "promoted",
+        "location": "paragraph 4749",
+        "sourceFile": "demons.txt",
+        "verificationNote": "Exact spoken text appears in paragraph 4749 and is directly attributed to Kirillov."
+      },
+      "reviewedShortlist": {
+        "promoted": ["demons-quote-candidate-4749"],
+        "maybeLater": [
+          "demons-quote-candidate-2159",
+          "demons-quote-candidate-2167",
+          "demons-quote-candidate-1703"
+        ],
+        "needsDeeperReview": [
+          "demons-quote-candidate-2625",
+          "demons-quote-candidate-4744",
+          "demons-quote-candidate-3219",
+          "demons-quote-candidate-2163"
+        ],
+        "rejected": []
+      }
+    }
+  ]
+}

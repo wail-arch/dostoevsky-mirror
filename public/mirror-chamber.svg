@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="A dim literary chamber with a book and candlelight">
+  <defs>
+    <radialGradient id="lamp" cx="52%" cy="38%" r="45%">
+      <stop offset="0%" stop-color="#fde68a" stop-opacity="0.74"/>
+      <stop offset="34%" stop-color="#7f1d1d" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#080706" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="room" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="48%" stop-color="#0c0a09"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.18"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#room)"/>
+  <rect width="1200" height="900" fill="url(#lamp)"/>
+  <path d="M130 760 C 280 660, 422 642, 580 726 C 720 644, 890 656, 1060 760 L 1060 806 C 880 714, 722 702, 582 782 C 426 700, 286 716, 130 806 Z" fill="#0c0a09" stroke="#fef3c7" stroke-opacity="0.22" stroke-width="4"/>
+  <path d="M580 726 L 582 782" stroke="#fef3c7" stroke-opacity="0.26" stroke-width="3"/>
+  <path d="M287 689 C 380 674, 470 685, 580 726" fill="none" stroke="#f5f5f4" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M875 689 C 775 674, 680 685, 580 726" fill="none" stroke="#f5f5f4" stroke-opacity="0.12" stroke-width="2"/>
+  <rect x="558" y="386" width="84" height="250" rx="42" fill="#211816" stroke="#fde68a" stroke-opacity="0.24"/>
+  <path d="M600 330 C 572 374, 578 416, 602 438 C 628 412, 632 376, 600 330 Z" fill="#fbbf24" opacity="0.86"/>
+  <path d="M601 356 C 590 382, 594 402, 606 416 C 619 397, 620 379, 601 356 Z" fill="#fff7ed" opacity="0.84"/>
+  <circle cx="600" cy="432" r="186" fill="#fbbf24" opacity="0.08"/>
+  <path d="M216 132 H 986 V 624 H 216 Z" fill="none" stroke="#fafaf9" stroke-opacity="0.06" stroke-width="6"/>
+  <path d="M258 174 H 944 V 584 H 258 Z" fill="none" stroke="#fef3c7" stroke-opacity="0.07" stroke-width="2"/>
+  <path d="M0 0 H1200 V900 H0 Z" fill="#000" opacity="0.22"/>
+  <rect width="1200" height="900" filter="url(#grain)" opacity="0.6"/>
+</svg>
+

@@ -1,0 +1,37 @@
+{
+  "name": "dostoevsky-mirror",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "data:fetch": "tsx scripts/fetch-sources.ts",
+    "data:normalize": "tsx scripts/normalize-texts.ts",
+    "data:extract-characters": "tsx scripts/extract-character-candidates.ts",
+    "data:extract-quotes": "tsx scripts/extract-quote-candidates.ts",
+    "data:shortlist-quotes": "tsx scripts/build-quote-shortlist.ts",
+    "data:validate": "tsx scripts/validate-curated-data.ts",
+    "data:build": "tsx scripts/build-content.ts",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2",
+    "zod": "^3.24.3"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.4",
+    "framer-motion": "^12.38.0",
+    "next": "^16.2.4",
+    "postcss": "^8.5.10",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "tailwindcss": "^4.2.4"
+  }
+}

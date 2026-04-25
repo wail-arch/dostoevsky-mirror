@@ -1,0 +1,62 @@
+[
+  {
+    "id": "notes-from-underground",
+    "title": "Notes from Underground",
+    "author": "Fyodor Dostoevsky",
+    "year": 1864,
+    "sourceProvider": "project-gutenberg",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/600.txt.utf-8",
+    "translator": "Constance Garnett",
+    "language": "en",
+    "licenseNote": "Project Gutenberg; public domain in the USA.",
+    "rawFile": "notes-from-underground.txt"
+  },
+  {
+    "id": "crime-and-punishment",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "sourceProvider": "project-gutenberg",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/2554.txt.utf-8",
+    "translator": "Constance Garnett",
+    "language": "en",
+    "licenseNote": "Project Gutenberg; public domain in the USA.",
+    "rawFile": "crime-and-punishment.txt"
+  },
+  {
+    "id": "the-idiot",
+    "title": "The Idiot",
+    "author": "Fyodor Dostoevsky",
+    "year": 1869,
+    "sourceProvider": "project-gutenberg",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/2638.txt.utf-8",
+    "translator": "Eva Martin",
+    "language": "en",
+    "licenseNote": "Project Gutenberg; public domain in the USA.",
+    "rawFile": "the-idiot.txt"
+  },
+  {
+    "id": "demons",
+    "title": "Demons",
+    "author": "Fyodor Dostoevsky",
+    "year": 1872,
+    "sourceProvider": "project-gutenberg",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/8117.txt.utf-8",
+    "translator": "Constance Garnett",
+    "language": "en",
+    "licenseNote": "Project Gutenberg; public domain in the USA.",
+    "rawFile": "demons.txt"
+  },
+  {
+    "id": "the-brothers-karamazov",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year": 1880,
+    "sourceProvider": "project-gutenberg",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/28054.txt.utf-8",
+    "translator": "Constance Garnett",
+    "language": "en",
+    "licenseNote": "Project Gutenberg; public domain in the USA.",
+    "rawFile": "the-brothers-karamazov.txt"
+  }
+]
