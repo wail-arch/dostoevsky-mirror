@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { motion } from "framer-motion";
 import type { ResultModel } from "../../lib/result/types";
 import { CharacterHook } from "./CharacterHook";
 import { GiftDangerCards } from "./GiftDangerCards";
@@ -58,12 +57,7 @@ export function ResultExperience({
 
         {eyebrow ? <p className={light ? "mx-auto mt-8 max-w-7xl text-xs font-semibold uppercase tracking-[0.22em] text-stone-600" : "mx-auto mt-8 max-w-7xl text-xs font-semibold uppercase tracking-[0.22em] text-amber-100/70"}>{eyebrow}</p> : null}
 
-        <motion.div
-          initial={{ opacity: 0, y: 18 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, ease: "easeOut" }}
-          className="mx-auto mt-12 max-w-7xl space-y-10"
-        >
+        <div className="mx-auto mt-12 max-w-7xl space-y-10">
           <ResultHero light={light} result={result} />
 
           <div className="grid gap-10 lg:grid-cols-[1fr_0.8fr]">
@@ -87,7 +81,7 @@ export function ResultExperience({
               <ShareResultButton result={result} />
             </aside>
           </div>
-        </motion.div>
+        </div>
       </div>
     </main>
   );
