@@ -2,6 +2,7 @@ import { getWorkById } from "../../lib/content";
 import { getCharacterImage } from "../../lib/result/characterImages";
 import type { ResultModel } from "../../lib/result/types";
 import { Badge } from "../ui/Badge";
+import { QuotePanel } from "./QuotePanel";
 import { ResultImage } from "./ResultImage";
 
 export function ResultHero({ result, light }: { result: ResultModel; light: boolean }) {
@@ -23,6 +24,9 @@ export function ResultHero({ result, light }: { result: ResultModel; light: bool
         <p className={light ? "mt-8 max-w-3xl text-lg leading-8 text-stone-800" : "mt-8 max-w-3xl text-lg leading-8 text-stone-200"}>
           {result.primary.archetype.resultPassage}
         </p>
+        <div className="mt-8 max-w-3xl">
+          <QuotePanel light={light} quote={result.quote} />
+        </div>
       </div>
       <ResultImage image={image} light={light} />
     </section>

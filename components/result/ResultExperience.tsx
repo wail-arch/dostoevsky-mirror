@@ -2,7 +2,6 @@ import Link from "next/link";
 import type { ResultModel } from "../../lib/result/types";
 import { CharacterHook } from "./CharacterHook";
 import { GiftDangerCards } from "./GiftDangerCards";
-import { QuotePanel } from "./QuotePanel";
 import { ReadingPath } from "./ReadingPath";
 import { ResultHero } from "./ResultHero";
 import { ShareResultButton } from "./ShareResultButton";
@@ -76,7 +75,6 @@ export function ResultExperience({
                   ))}
                 </div>
               </section>
-              <QuotePanel light={light} quote={result.quote} />
               <ReadingPath light={light} result={result} />
               <ShareResultButton result={result} />
             </aside>
