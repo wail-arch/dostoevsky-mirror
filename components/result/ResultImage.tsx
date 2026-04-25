@@ -10,14 +10,14 @@ export function ResultImage({ image, light }: { image: CharacterImage | null; li
   return (
     <figure
       className={cn(
-        "relative min-h-[360px] overflow-hidden rounded-[2rem] border shadow-2xl sm:min-h-[460px] lg:min-h-[620px]",
+        "relative min-h-[320px] overflow-hidden rounded-[2rem] border shadow-2xl sm:min-h-[420px] xl:min-h-[600px]",
         light ? "border-stone-950/10 bg-stone-950/10 shadow-stone-400/20" : "border-white/10 bg-black/30 shadow-black/40"
       )}
     >
       <Image
         fill
         priority
-        sizes="(min-width: 1024px) 36vw, 100vw"
+        sizes="(min-width: 1280px) 34vw, 100vw"
         src={image.src}
         alt={image.alt}
         className={cn("object-cover", image.kind === "symbolic" ? "object-center" : "object-top")}

@@ -9,11 +9,11 @@ export function ResultHero({ result, light }: { result: ResultModel; light: bool
   const image = getCharacterImage(result.primary.character.id);
 
   return (
-    <section className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(320px,0.72fr)] lg:items-stretch">
-      <div className="max-w-4xl">
+    <section className="grid gap-8 xl:grid-cols-[minmax(0,1fr)_minmax(320px,0.52fr)] xl:items-stretch">
+      <div className="min-w-0 max-w-4xl">
         <p className={light ? "text-stone-700" : "text-stone-300"}>Your type</p>
         <p className={light ? "mt-2 text-sm text-stone-600" : "mt-2 text-sm text-stone-400"}>{work?.title ?? "Dostoevsky Mirror"}</p>
-        <h1 className={light ? "font-literary mt-5 text-5xl font-black leading-none text-stone-950 sm:text-7xl" : "font-literary mt-5 text-5xl font-black leading-none text-stone-50 sm:text-7xl"}>
+        <h1 className={light ? "font-literary mt-5 max-w-[10ch] break-words text-5xl font-black leading-none text-stone-950 sm:text-7xl" : "font-literary mt-5 max-w-[10ch] break-words text-5xl font-black leading-none text-stone-50 sm:text-7xl"}>
           {result.primary.character.canonicalName}
         </h1>
         <div className="mt-5 flex flex-wrap items-center gap-3">

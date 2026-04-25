@@ -62,28 +62,31 @@ export function ResultExperience({
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, ease: "easeOut" }}
-          className="mx-auto mt-12 grid max-w-7xl gap-10 lg:grid-cols-[1fr_0.8fr]"
+          className="mx-auto mt-12 max-w-7xl space-y-10"
         >
-          <div className="space-y-10">
-            <ResultHero light={light} result={result} />
-            <TypeConstellation result={result} />
-            <CharacterHook result={result} />
-            <GiftDangerCards character={result.primary.character} />
-          </div>
+          <ResultHero light={light} result={result} />
 
-          <aside className="space-y-5">
-            <section className="rounded-2xl border border-white/10 bg-black/30 p-6 shadow-2xl shadow-black/30 backdrop-blur-xl">
-              <p className="text-xs font-semibold uppercase tracking-[0.22em] text-amber-100/70">Top traits</p>
-              <div className="mt-5 space-y-4">
-                {result.topTraits.map((trait) => (
-                  <TraitBar key={trait.key} label={trait.label} value={trait.value} />
-                ))}
-              </div>
-            </section>
-            <QuotePanel quote={result.quote} />
-            <ReadingPath result={result} />
-            <ShareResultButton result={result} />
-          </aside>
+          <div className="grid gap-10 lg:grid-cols-[1fr_0.8fr]">
+            <div className="space-y-10">
+              <TypeConstellation light={light} result={result} />
+              <CharacterHook light={light} result={result} />
+              <GiftDangerCards light={light} character={result.primary.character} />
+            </div>
+
+            <aside className="space-y-5">
+              <section className={light ? "rounded-2xl border border-stone-950/10 bg-white/60 p-6 shadow-2xl shadow-stone-400/20 backdrop-blur-xl" : "rounded-2xl border border-white/10 bg-black/30 p-6 shadow-2xl shadow-black/30 backdrop-blur-xl"}>
+                <p className={light ? "text-xs font-semibold uppercase tracking-[0.22em] text-amber-700" : "text-xs font-semibold uppercase tracking-[0.22em] text-amber-100/70"}>Top traits</p>
+                <div className="mt-5 space-y-4">
+                  {result.topTraits.map((trait) => (
+                    <TraitBar key={trait.key} light={light} label={trait.label} value={trait.value} />
+                  ))}
+                </div>
+              </section>
+              <QuotePanel light={light} quote={result.quote} />
+              <ReadingPath light={light} result={result} />
+              <ShareResultButton result={result} />
+            </aside>
+          </div>
         </motion.div>
       </div>
     </main>
