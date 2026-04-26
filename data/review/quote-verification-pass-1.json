@@ -274,15 +274,15 @@
     {
       "characterId": "stavrogin",
       "selected": {
-        "candidateId": "demons-quote-candidate-3211",
-        "promotedQuoteId": "quote-stavrogin-no-necessity",
+        "candidateId": "demons-quote-candidate-4740",
+        "promotedQuoteId": "quote-stavrogin-faith-without-faith",
         "status": "promoted",
-        "location": "paragraph 3211",
+        "location": "paragraph 4740",
         "sourceFile": "demons.txt",
-        "verificationNote": "Exact spoken text appears in paragraph 3211 and is directly attributed to Stavrogin."
+        "verificationNote": "Exact text appears in paragraph 4740 and is Kirillov's judgment about Stavrogin."
       },
       "reviewedShortlist": {
-        "promoted": ["demons-quote-candidate-3211"],
+        "promoted": ["demons-quote-candidate-4740"],
         "maybeLater": [
           "demons-quote-candidate-2201",
           "demons-quote-candidate-2105",

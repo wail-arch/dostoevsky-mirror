@@ -238,18 +238,18 @@ export const quotes = [
     "commentary": "Fits Alyosha's active remembrance, communal tenderness, and faith in continuity."
   },
   {
-    "id": "quote-stavrogin-no-necessity",
+    "id": "quote-stavrogin-faith-without-faith",
     "workId": "demons",
     "characterId": "stavrogin",
-    "quoteType": "spoken-by",
-    "speakerId": "stavrogin",
-    "text": "\"I see no necessity to answer the question which interests you,\"",
-    "location": "paragraph 3211",
+    "quoteType": "about",
+    "speakerId": "kirillov",
+    "text": "\"No, I guessed it myself: if Stavrogin has faith, he does not believe\nthat he has faith. If he hasn't faith, he does not believe that he\nhasn't.\"",
+    "location": "paragraph 4740",
     "sourceProvider": "project-gutenberg",
     "translator": "Constance Garnett",
     "licenseNote": "Project Gutenberg; public domain in the USA.",
     "verified": true,
-    "commentary": "Shows Stavrogin's evasive detachment and refusal to be morally summoned."
+    "commentary": "Kirillov names Stavrogin's central vacancy: even belief and unbelief cannot become fully real in him."
   },
   {
     "id": "echo-stavrogin-vacancy",
