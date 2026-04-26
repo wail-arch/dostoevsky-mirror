@@ -26,5 +26,9 @@ export function quotePanelLabel(quote: Quote | null) {
     return "Mirror sentence";
   }
 
+  if (quote.quoteType === "about") {
+    return "Said of him";
+  }
+
   return isRealQuote(quote) ? "In his own words" : "Mirror sentence";
 }
